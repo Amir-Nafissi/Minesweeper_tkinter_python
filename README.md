@@ -1,4 +1,4 @@
 # Minesweeper_tkinter_python
-## Detials:
+## Details:
 
 A simple recreation of the classic game "Minesweeper" in python using tkinter
